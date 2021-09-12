@@ -10,7 +10,7 @@ Contact `Riku </>#7028` on Discord if you wish to partner/hire me!
 
 ♡ Will need to have [this bot](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=122272738390&scope=bot%20applications.commands) to count PM points
 
-♡ Someone from the hiring server must join as a @Reps
+♡ Someone from the hiring server must join as a **Rep** and be given the `@Reps` role in my PM portal
 
 ✿ Benefit(s) from getting the free plan
 
