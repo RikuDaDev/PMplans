@@ -20,7 +20,7 @@ Your ad will be sent to 10 or more servers
 
 **__Paid Plan__**
 
-This is the uwu paid plan for @Riku </> pm services
+This is the uwu paid plan for my services as a PM ^^
 
 ✿ Must have invite counting bot
 
