@@ -36,4 +36,4 @@ Your ad will be posted to all server I work for
 
 The Paid plan costs from $5 to $10 in Discord Nitro ( you can pay before I do the job or after I do it.) 
 
-**Boosting a server of my choice for 2-3 weeks is also an valid payment, however Nitro in full price for $5/$10 is recommended and a better deal, so you don't have to deal with joining more servers and boost them <3
+**Boosting a server of my choice for 2-3 weeks is also an valid payment, however Nitro in full price for $5/$10 is recommended and a better deal, so you don't have to deal with joining more servers and boost them <3**
