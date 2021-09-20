@@ -6,27 +6,29 @@ Contact `Riku </>#7028` on Discord if you wish to partner/hire me!
 
 **__Free Plan__**
 
+**Reqs: 
 ♡ 70+ Server Members
 
 ♡ It is recommended to have [this bot](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=122272738390&scope=bot%20applications.commands) to count PM points ( or any other bot which can do that.)
 
-♡ Someone from the hiring server must join as a **Rep** and be given the `@Reps` role in [My PM Portal](https://discord.gg/XvM4VwJvXa). It is optional by the way, in some cases I'd rep your server myself, but not everytime for every server, so joining is recommended.
+**♡ Someone from the hiring server must join as a `Rep` and be given the `@Reps` role in [My PM Portal](https://discord.gg/XvM4VwJvXa). It is optional by the way, in some cases I'd rep your server myself, but not everytime for every server, so joining is recommended.**
 
 ✿ Benefit(s) from getting the free plan
 
-No min/max invites guaranteed
+*No min/max invites guaranteed
 
-Your ad will be sent to 10 or more servers
+Your ad will be sent to 10 or more servers*
 
 **__Paid Plan__**
 
 This is the uwu paid plan for my services as a PM ^^
 
-✿ Must have invite counting bot
+**Reqs:**
+✿ **Must have invite counting bot**
 
-✿ Must have the [Limunous Nova bot](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=122272738390&scope=bot%20applications.commands) bot in your server (or a bot counting PM points) 
+✿ **Must have the [Limunous Nova bot](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=122272738390&scope=bot%20applications.commands) bot in your server (or a bot counting PM points)**
 
-✿ 50+ Server Members
+✿ **50+ Server Members**
 
 **__Benefits from taking paid plan__**
 
