@@ -9,9 +9,10 @@ Contact `Riku </>#7028` on Discord if you wish to partner/hire me!
 **Reqs: 
 ♡ 70+ Server Members
 
-♡ It is recommended to have [this bot](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=122272738390&scope=bot%20applications.commands) to count PM points ( or any other bot which can do that.)
+♡ It is recommended to have [this bot](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=122272738390&scope=bot%20applications.commands) to count PM points ( or any other bot which can do that.)**
 
-**♡ Someone from the hiring server must join as a `Rep` and be given the `@Reps` role in [My PM Portal](https://discord.gg/XvM4VwJvXa). It is optional by the way, in some cases I'd rep your server myself, but not everytime for every server, so joining is recommended.**
+
+**♡ Someone from the hiring server should join as a `Rep` and be given the `@Reps` role in [My PM Portal](https://discord.gg/XvM4VwJvXa), alts are allowed to join and Rep if needed.**
 
 ✿ Benefit(s) from getting the free plan
 
