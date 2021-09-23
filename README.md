@@ -16,7 +16,7 @@ Contact `Riku </>#7028` on Discord if you wish to partner/hire me!
 
 ✿ Benefit(s) from getting the free plan
 
-*No min/max invites guaranteed
+*No min/max invites guaranteed*
 
 *Your ad will be sent to all the servers I work for*
 
