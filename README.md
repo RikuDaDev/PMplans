@@ -17,7 +17,9 @@ Contact `Riku </>#7028` on Discord if you wish to partner/hire me!
 
 *No min/max invites guaranteed
 
-Your ad will be sent to 10 or more servers*
+*Your ad will be sent to all the servers I work for*
+
+*I'll try to do be as active as I can in your server and post actively in PM channel ^^*
 
 **__Paid Plan__**
 
