@@ -1,7 +1,7 @@
 # PM plans
 This is my server partnership plans (the blue text is hidden links and each will take you to a different place)! 
 
-Contact `Riku </>#7028` on Discord if you wish to partner/hire me!
+Contact `blushie#1337` on Discord if you wish to partner/hire me!
 
 
 **__Free Plan__**
